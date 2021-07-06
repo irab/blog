@@ -46,9 +46,9 @@
 
   <footer>
     <span>
-      &copy; {new Date().getFullYear()} Your Blog.
-      Powered by <a href="https://sapper.svelte.dev" target="_blank">Sapper</a>.
-      Template by <a href="https://www.twitter.com/Charca" target="_blank">Maxi Ferreira</a>.
+      &copy; {new Date().getFullYear()} Ira Bailey |
+      Powered by <a href="https://svelte.dev" target="_blank">Svelte</a> | 
+      <a href="https://github.com/Charca/sapper-blog-template" target="_blank">Template</a> by <a href="https://www.twitter.com/Charca" target="_blank">Maxi Ferreira</a>
     </span>
   </footer>
 </div>
