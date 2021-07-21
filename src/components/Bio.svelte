@@ -21,6 +21,6 @@
 <div>
   <img src="profile-pic.png" alt="Ira Bailey">
   <p>
-    Hi, I'm Ira, a Cloud Engineer and Systems Designer from New Zealand.
+    Hi, I'm Ira -  a Cloud Engineer/Systems Designer/Architect. Currently working on Google Cloud.
   </p>
 </div>
